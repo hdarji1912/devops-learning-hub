@@ -146,7 +146,7 @@ Configure the following secrets in your GitHub repository:
 
 ![DevOps Roadmap](assets/images/github-action.png)
 
-![DevOps Roadmap](assets/images/successfull -action.png)
+![DevOps Roadmap](assets/images/complete.png)
 
 ![DevOps Roadmap](assets/images/roadmap.png)
 
